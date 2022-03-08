@@ -7,6 +7,12 @@
   font-weight: bold;
 }
 
+.standout {
+  color: blue;
+  font-size: larger;
+
+}
+
 body {
   background-color: teal;
 }
